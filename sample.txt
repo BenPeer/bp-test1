@@ -1,8 +1,9 @@
 22
 11
 Git commands even a monkey can understand
-should I push?
+should I 
 I guess that each time I commit, the git records the aaa from last commit so I can go back
 now it is time to commit (2)
 
 bye
+aaa
